@@ -13,8 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background-color: cornflowerblue; */
-  background: linear-gradient( to right orange pink);
+  background-color: cornflowerblue;
 }
 .container{
   height: 430px;
